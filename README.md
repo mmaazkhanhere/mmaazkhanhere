@@ -8,8 +8,8 @@ My commitment to the craft is exemplified by my goal of creating next-generation
 
 My journey as a developer is defined by the quest to push boundaries, explore uncharted territories, and bring groundbreaking ideas to life. I look forward to the exciting possibilities that lie ahead as I continue to shape the future of technology through my work.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mmaazkhanhere&theme=ocean-gradient&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmaazkhanhere)](https://github.com/mmaazkhanhere/github-readme-stats)
+![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmaazkhanhere&show_icons=true&theme=swift&rank_icon=github)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmaazkhanhere&layout=donut&theme=swift)](https://github.com/mmaazkhanhere/github-readme-stats)
 
 ### Technologies
 
