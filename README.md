@@ -1,32 +1,35 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mian Maaz Ullah Khan
+============================================================================================================================================
 
-I'm Mian Maaz Ullah Khan, an experienced developer who has traversed the roles of a junior machine learning engineer and now a fullstack developer. My journey in technology has been marked by a relentless pursuit of knowledge and a passion for innovation.
+Fullstack Engineer
+------------------
 
-In the realm of AI and Web3, I am a staunch advocate for decentralization and transparency. These principles not only guide my work but also reflect my vision for the future of digital applications.
+Building AI-infused apps for a smarter tomorrow.
 
-My commitment to the craft is exemplified by my goal of creating next-generation applications that seamlessly integrate generative AI and Web3 technologies. I am driven by the belief that these synergies hold immense potential to address the evolving challenges of our modern world.
+* 🌍  I'm based in Peshawar, Pakistan
+* 🖥️  See my portfolio at [personal website](http://mmaazkhanhere.vercel.app)
+* ✉️  You can contact me at [mmaazkhan@outlook.com](mailto:mmaazkhan@outlook.com)
+* 🧠  I'm learning Generative AI, LangChain
+* 🤝  I'm open to collaborating on Fullstack Apps powered by Generative AI
 
-My journey as a developer is defined by the quest to push boundaries, explore uncharted territories, and bring groundbreaking ideas to life. I look forward to the exciting possibilities that lie ahead as I continue to shape the future of technology through my work.
-
-![Maaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmaazkhanhere&show_icons=true&theme=swift&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmaazkhanhere&layout=donut&theme=swift)](https://github.com/mmaazkhanhere/github-readme-stats)
-
-### Technologies
-
-I specialise in Nextjs 13, TypeScript and TailwindCSS for fullstack development. However, I am eager to learn and adapt new technologies when required. I uses relevant technologies like Redux, PostgresSQL, Figma, AI, ML, AWS and much more.
+### Skills
 
 
-<!--
-**mmaazkhanhere/mmaazkhanhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a><a href='https://www.langchain.com/' target='_blank' rel='noreferrer'><img src='https://miro.medium.com/v2/resize:fit:500/1*AILUUJplhPwbeDsBwNXV3g.png' width='50' height='50' alt='LangChain' /></a><a href='https://www.openai.com/' target='_blank' rel='noreferrer'><img src='https://static-00.iconduck.com/assets.00/openai-icon-2021x2048-4rpe5x7n.png' width='36' height='36' alt='LangChain' /></a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/mmaazkhanhere" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/mmaazkhanhere" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mmaazkhanhere" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/mmaazkhanhere" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/mmaazkhanhere"><img src="https://github-readme-stats.vercel.app/api?username=mmaazkhanhere&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=3382ed&icon_color=facc15&bg_color=171717&hide_border=true&show_icons=true" alt="mmaazkhanhere's GitHub stats" /></a>
+
+<a href="http://www.github.com/mmaazkhanhere"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mmaazkhanhere&stroke=3382ed&background=171717&ring=facc15&fire=facc15&currStreakNum=3382ed&currStreakLabel=facc15&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+
+<a href="https://github.com/mmaazkhanhere" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmaazkhanhere&langs_count=10&title_color=facc15&text_color=3382ed&icon_color=facc15&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
