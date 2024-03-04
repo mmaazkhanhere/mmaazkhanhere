@@ -9,7 +9,7 @@ Building AI-infused apps for a smarter tomorrow.
 * 🌍  I'm based in Peshawar, Pakistan
 * 🖥️  See my portfolio at [personal website](http://mmaazkhanhere.vercel.app)
 * ✉️  You can contact me at [mmaazkhan@outlook.com](mailto:mmaazkhan@outlook.com)
-* 🧠  I'm learning Generative AI, LangChain
+* 🧠  I'm learning FAST API, SQLALCHEMY, Kubernetes, Kafka, Docker, OpenAI APIs, and Custom GPTs.
 * 🤝  I'm open to collaborating on Fullstack Apps powered by Generative AI
 
 ### Skills
