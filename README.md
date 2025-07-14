@@ -1,15 +1,27 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mian Maaz Ullah Khan
 ============================================================================================================================================
 
-Fullstack Developer
-------------------
+### 𝗔𝗜 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 & 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
+Architecting the future with **intelligent applications**, I bridge the gap between cutting-edge **AI (Generative AI & AI Agents)** and **robust Full Stack Development** to build impactful, user-centric solutions.
 
-Building AI-infused apps for a smarter tomorrow.
+### What I Do
+
+I empower businesses to leverage the transformative potential of **Generative AI** and sophisticated **AI Agents** by seamlessly integrating them into scalable web applications. My expertise spans:
+
+* **Intelligent AI Agents:** Developing agents for process automation and enhanced user experiences.
+* **Generative AI Features:** Building and deploying innovative Generative AI-powered functionalities.
+* **Full Stack Development:** Crafting high-performance web applications with the **Next.js** ecosystem (Next.js, React, TailwindCSS) and designing efficient **RESTful APIs** with **FastAPI** and **Node.js**.
+* **Database Management:** Implementing robust solutions with **PostgreSQL**.
+* **Cloud Deployment:** Deploying and managing applications on **AWS** and **Azure**.
+
+I thrive on turning complex challenges into elegant, impactful products, utilizing tools like **LangGraph** for agentic workflows and **Retrieval-Augmented Generation (RAG)** for enhanced AI intelligence.
+
+### Quick Facts
 
 * 🌍  I'm based in Peshawar, Pakistan
 * 🖥️  See my portfolio at [personal website](http://mmaazkhan.vercel.app)
 * ✉️  You can contact me at [mmaazkhan@outlook.com](mailto:mmaazkhan@outlook.com)
-* 🧠  I'm learning FAST API, SQLALCHEMY, Kubernetes, Kafka, Docker, OpenAI APIs, and Custom GPTs.
+* 🧠  I'm continuously learning: MCP, A2A, Kubernetes, and Kafka.
 * 🤝  I'm open to collaborating on Fullstack Apps powered by Generative AI
 
 ### Skills
