@@ -1,6 +1,6 @@
 # Mian Maaz Ullah Khan
 
-## Applied AI Engineer | Multi-Agent Systems | Production LLM Applications
+## Agentic AI Engineer | Multi-Agent Systems | Production LLM Applications
 
 I design and deploy **reliable AI agent systems** and **LLM-powered applications** that solve real business problems at scale.
 
